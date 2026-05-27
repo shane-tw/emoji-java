@@ -451,7 +451,8 @@ public class EmojiParser {
         return new UnicodeCandidate(
                 emoji,
                 fitzpatrickString,
-                i
+                i,
+                emojiEnd
         );
       }
     }
@@ -494,11 +495,13 @@ public class EmojiParser {
     private final Emoji emoji;
     private final Fitzpatrick fitzpatrick;
     private final int startIndex;
+    private final int emojiEndIndex;
 
-    private UnicodeCandidate(Emoji emoji, String fitzpatrick, int startIndex) {
+    private UnicodeCandidate(Emoji emoji, String fitzpatrick, int startIndex, int emojiEndIndex) {
       this.emoji = emoji;
       this.fitzpatrick = Fitzpatrick.fitzpatrickFromUnicode(fitzpatrick);
       this.startIndex = startIndex;
+      this.emojiEndIndex = emojiEndIndex;
     }
 
     public Emoji getEmoji() {
@@ -526,7 +529,7 @@ public class EmojiParser {
     }
 
     public int getEmojiEndIndex() {
-      return startIndex + emoji.getUnicode().length();
+      return emojiEndIndex;
     }
 
     public int getFitzpatrickEndIndex() {
