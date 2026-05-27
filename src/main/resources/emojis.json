@@ -3457,7 +3457,7 @@
     ]
   },
   {
-    "emojiChar": "☺️",
+    "emojiChar": "☺",
     "emoji": "\u263A",
     "description": "white smiling face",
     "aliases": [
@@ -4652,7 +4652,7 @@
     ]
   },
   {
-    "emojiChar": "✌️",
+    "emojiChar": "✌",
     "emoji": "\u270C",
     "description": "victory hand",
     "supports_fitzpatrick": true,
@@ -4767,7 +4767,7 @@
     ]
   },
   {
-    "emojiChar": "☝️",
+    "emojiChar": "☝",
     "emoji": "\u261D",
     "description": "white up pointing index",
     "supports_fitzpatrick": true,
@@ -5390,7 +5390,7 @@
     "tags": []
   },
   {
-    "emojiChar": "❤️",
+    "emojiChar": "❤",
     "emoji": "\u2764",
     "description": "heavy black heart",
     "aliases": [
@@ -6590,7 +6590,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☀️",
+    "emojiChar": "☀",
     "emoji": "\u2600",
     "description": "black sun with rays",
     "aliases": [
@@ -6613,7 +6613,7 @@
     ]
   },
   {
-    "emojiChar": "☁️",
+    "emojiChar": "☁",
     "emoji": "\u2601",
     "description": "cloud",
     "aliases": [
@@ -6646,7 +6646,7 @@
     ]
   },
   {
-    "emojiChar": "❄️",
+    "emojiChar": "❄",
     "emoji": "\u2744",
     "description": "snowflake",
     "aliases": [
@@ -7036,7 +7036,7 @@
     ]
   },
   {
-    "emojiChar": "☎️",
+    "emojiChar": "☎",
     "emoji": "\u260E",
     "description": "black telephone",
     "aliases": [
@@ -7640,7 +7640,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✉️",
+    "emojiChar": "✉",
     "emoji": "\u2709",
     "description": "envelope",
     "aliases": [
@@ -7884,7 +7884,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✂️",
+    "emojiChar": "✂",
     "emoji": "\u2702",
     "description": "black scissors",
     "aliases": [
@@ -7915,7 +7915,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✒️",
+    "emojiChar": "✒",
     "emoji": "\u2712",
     "description": "black nib",
     "aliases": [
@@ -7924,7 +7924,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✏️",
+    "emojiChar": "✏",
     "emoji": "\u270F",
     "description": "pencil",
     "aliases": [
@@ -9426,7 +9426,7 @@
     ]
   },
   {
-    "emojiChar": "✈️",
+    "emojiChar": "✈",
     "emoji": "\u2708",
     "description": "airplane",
     "aliases": [
@@ -9811,7 +9811,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚠️",
+    "emojiChar": "⚠",
     "emoji": "\u26A0",
     "description": "warning sign",
     "aliases": [
@@ -9870,7 +9870,7 @@
     "tags": []
   },
   {
-    "emojiChar": "♨️",
+    "emojiChar": "♨",
     "emoji": "\u2668",
     "description": "hot springs",
     "aliases": [
@@ -9931,7 +9931,7 @@
     "tags": []
   },
   {
-    "emojiChar": "1️⃣",
+    "emojiChar": "1⃣",
     "emoji": "1\u20E3",
     "description": "digit one + combining enclosing keycap",
     "aliases": [
@@ -9940,7 +9940,7 @@
     "tags": []
   },
   {
-    "emojiChar": "2️⃣",
+    "emojiChar": "2⃣",
     "emoji": "2\u20E3",
     "description": "digit two + combining enclosing keycap",
     "aliases": [
@@ -9949,7 +9949,7 @@
     "tags": []
   },
   {
-    "emojiChar": "3️⃣",
+    "emojiChar": "3⃣",
     "emoji": "3\u20E3",
     "description": "digit three + combining enclosing keycap",
     "aliases": [
@@ -9958,7 +9958,7 @@
     "tags": []
   },
   {
-    "emojiChar": "4️⃣",
+    "emojiChar": "4⃣",
     "emoji": "4\u20E3",
     "description": "digit four + combining enclosing keycap",
     "aliases": [
@@ -9967,7 +9967,7 @@
     "tags": []
   },
   {
-    "emojiChar": "5️⃣",
+    "emojiChar": "5⃣",
     "emoji": "5\u20E3",
     "description": "digit five + combining enclosing keycap",
     "aliases": [
@@ -9976,7 +9976,7 @@
     "tags": []
   },
   {
-    "emojiChar": "6️⃣",
+    "emojiChar": "6⃣",
     "emoji": "6\u20E3",
     "description": "digit six + combining enclosing keycap",
     "aliases": [
@@ -9985,7 +9985,7 @@
     "tags": []
   },
   {
-    "emojiChar": "7️⃣",
+    "emojiChar": "7⃣",
     "emoji": "7\u20E3",
     "description": "digit seven + combining enclosing keycap",
     "aliases": [
@@ -9994,7 +9994,7 @@
     "tags": []
   },
   {
-    "emojiChar": "8️⃣",
+    "emojiChar": "8⃣",
     "emoji": "8\u20E3",
     "description": "digit eight + combining enclosing keycap",
     "aliases": [
@@ -10003,7 +10003,7 @@
     "tags": []
   },
   {
-    "emojiChar": "9️⃣",
+    "emojiChar": "9⃣",
     "emoji": "9\u20E3",
     "description": "digit nine + combining enclosing keycap",
     "aliases": [
@@ -10012,7 +10012,7 @@
     "tags": []
   },
   {
-    "emojiChar": "0️⃣",
+    "emojiChar": "0⃣",
     "emoji": "0\u20E3",
     "description": "digit zero + combining enclosing keycap",
     "aliases": [
@@ -10041,7 +10041,7 @@
     ]
   },
   {
-    "emojiChar": "#️⃣",
+    "emojiChar": "#⃣",
     "emoji": "#\u20E3",
     "description": "number sign + combining enclosing keycap",
     "aliases": [
@@ -10061,7 +10061,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⬆️",
+    "emojiChar": "⬆",
     "emoji": "\u2B06",
     "description": "upwards black arrow",
     "aliases": [
@@ -10070,7 +10070,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⬇️",
+    "emojiChar": "⬇",
     "emoji": "\u2B07",
     "description": "downwards black arrow",
     "aliases": [
@@ -10079,7 +10079,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⬅️",
+    "emojiChar": "⬅",
     "emoji": "\u2B05",
     "description": "leftwards black arrow",
     "aliases": [
@@ -10088,7 +10088,7 @@
     "tags": []
   },
   {
-    "emojiChar": "➡️",
+    "emojiChar": "➡",
     "emoji": "\u27A1",
     "description": "black rightwards arrow",
     "aliases": [
@@ -10128,7 +10128,7 @@
     ]
   },
   {
-    "emojiChar": "↗️",
+    "emojiChar": "↗",
     "emoji": "\u2197",
     "description": "north east arrow",
     "aliases": [
@@ -10137,7 +10137,7 @@
     "tags": []
   },
   {
-    "emojiChar": "↖️",
+    "emojiChar": "↖",
     "emoji": "\u2196",
     "description": "north west arrow",
     "aliases": [
@@ -10146,7 +10146,7 @@
     "tags": []
   },
   {
-    "emojiChar": "↘️",
+    "emojiChar": "↘",
     "emoji": "\u2198",
     "description": "south east arrow",
     "aliases": [
@@ -10155,7 +10155,7 @@
     "tags": []
   },
   {
-    "emojiChar": "↙️",
+    "emojiChar": "↙",
     "emoji": "\u2199",
     "description": "south west arrow",
     "aliases": [
@@ -10164,7 +10164,7 @@
     "tags": []
   },
   {
-    "emojiChar": "↔️",
+    "emojiChar": "↔",
     "emoji": "\u2194",
     "description": "left right arrow",
     "aliases": [
@@ -10173,7 +10173,7 @@
     "tags": []
   },
   {
-    "emojiChar": "↕️",
+    "emojiChar": "↕",
     "emoji": "\u2195",
     "description": "up down arrow",
     "aliases": [
@@ -10193,7 +10193,7 @@
     ]
   },
   {
-    "emojiChar": "◀️",
+    "emojiChar": "◀",
     "emoji": "\u25C0",
     "description": "black left-pointing triangle",
     "aliases": [
@@ -10202,7 +10202,7 @@
     "tags": []
   },
   {
-    "emojiChar": "▶️",
+    "emojiChar": "▶",
     "emoji": "\u25B6",
     "description": "black right-pointing triangle",
     "aliases": [
@@ -10229,7 +10229,7 @@
     "tags": []
   },
   {
-    "emojiChar": "↩️",
+    "emojiChar": "↩",
     "emoji": "\u21A9",
     "description": "leftwards arrow with hook",
     "aliases": [
@@ -10240,7 +10240,7 @@
     ]
   },
   {
-    "emojiChar": "↪️",
+    "emojiChar": "↪",
     "emoji": "\u21AA",
     "description": "rightwards arrow with hook",
     "aliases": [
@@ -10249,7 +10249,7 @@
     "tags": []
   },
   {
-    "emojiChar": "ℹ️",
+    "emojiChar": "ℹ",
     "emoji": "\u2139",
     "description": "information source",
     "aliases": [
@@ -10294,7 +10294,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⤵️",
+    "emojiChar": "⤵",
     "emoji": "\u2935",
     "description": "arrow pointing rightwards then curving downwards",
     "aliases": [
@@ -10303,7 +10303,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⤴️",
+    "emojiChar": "⤴",
     "emoji": "\u2934",
     "description": "arrow pointing rightwards then curving upwards",
     "aliases": [
@@ -10591,7 +10591,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🅿️",
+    "emojiChar": "🅿",
     "emoji": "\uD83C\uDD7F",
     "description": "negative squared latin capital letter p",
     "aliases": [
@@ -10620,7 +10620,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🈷️",
+    "emojiChar": "🈷",
     "emoji": "\uD83C\uDE37",
     "description": "squared cjk unified ideograph-6708",
     "aliases": [
@@ -10638,7 +10638,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🈂️",
+    "emojiChar": "🈂",
     "emoji": "\uD83C\uDE02",
     "description": "squared katakana sa",
     "aliases": [
@@ -10647,7 +10647,7 @@
     "tags": []
   },
   {
-    "emojiChar": "Ⓜ️",
+    "emojiChar": "Ⓜ",
     "emoji": "\u24C2",
     "description": "circled latin capital letter m",
     "aliases": [
@@ -10703,7 +10703,7 @@
     "tags": []
   },
   {
-    "emojiChar": "㊙️",
+    "emojiChar": "㊙",
     "emoji": "\u3299",
     "description": "circled ideograph secret",
     "aliases": [
@@ -10712,7 +10712,7 @@
     "tags": []
   },
   {
-    "emojiChar": "㊗️",
+    "emojiChar": "㊗",
     "emoji": "\u3297",
     "description": "circled ideograph congratulation",
     "aliases": [
@@ -10837,7 +10837,7 @@
     ]
   },
   {
-    "emojiChar": "✳️",
+    "emojiChar": "✳",
     "emoji": "\u2733",
     "description": "eight spoked asterisk",
     "aliases": [
@@ -10846,7 +10846,7 @@
     "tags": []
   },
   {
-    "emojiChar": "❇️",
+    "emojiChar": "❇",
     "emoji": "\u2747",
     "description": "sparkle",
     "aliases": [
@@ -10873,7 +10873,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✴️",
+    "emojiChar": "✴",
     "emoji": "\u2734",
     "description": "eight pointed black star",
     "aliases": [
@@ -10921,7 +10921,7 @@
     ]
   },
   {
-    "emojiChar": "🅰️",
+    "emojiChar": "🅰",
     "emoji": "\uD83C\uDD70",
     "description": "negative squared latin capital letter a",
     "aliases": [
@@ -10930,7 +10930,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🅱️",
+    "emojiChar": "🅱",
     "emoji": "\uD83C\uDD71",
     "description": "negative squared latin capital letter b",
     "aliases": [
@@ -10948,7 +10948,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🅾️",
+    "emojiChar": "🅾",
     "emoji": "\uD83C\uDD7E",
     "description": "negative squared latin capital letter o",
     "aliases": [
@@ -10975,7 +10975,7 @@
     "tags": []
   },
   {
-    "emojiChar": "♻️",
+    "emojiChar": "♻",
     "emoji": "\u267B",
     "description": "black universal recycling symbol",
     "aliases": [
@@ -11149,7 +11149,7 @@
     "tags": []
   },
   {
-    "emojiChar": "©️",
+    "emojiChar": "©",
     "emoji": "\u00A9",
     "description": "copyright sign",
     "aliases": [
@@ -11158,7 +11158,7 @@
     "tags": []
   },
   {
-    "emojiChar": "®️",
+    "emojiChar": "®",
     "emoji": "\u00AE",
     "description": "registered sign",
     "aliases": [
@@ -11167,7 +11167,7 @@
     "tags": []
   },
   {
-    "emojiChar": "™️",
+    "emojiChar": "™",
     "emoji": "\u2122",
     "description": "trade mark sign",
     "aliases": [
@@ -11187,7 +11187,7 @@
     "tags": []
   },
   {
-    "emojiChar": "‼️",
+    "emojiChar": "‼",
     "emoji": "\u203C",
     "description": "double exclamation mark",
     "aliases": [
@@ -11196,7 +11196,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⁉️",
+    "emojiChar": "⁉",
     "emoji": "\u2049",
     "description": "exclamation question mark",
     "aliases": [
@@ -11525,7 +11525,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✖️",
+    "emojiChar": "✖",
     "emoji": "\u2716",
     "description": "heavy multiplication x",
     "aliases": [
@@ -11561,7 +11561,7 @@
     "tags": []
   },
   {
-    "emojiChar": "♠️",
+    "emojiChar": "♠",
     "emoji": "\u2660",
     "description": "black spade suit",
     "aliases": [
@@ -11570,7 +11570,7 @@
     "tags": []
   },
   {
-    "emojiChar": "♥️",
+    "emojiChar": "♥",
     "emoji": "\u2665",
     "description": "black heart suit",
     "aliases": [
@@ -11579,7 +11579,7 @@
     "tags": []
   },
   {
-    "emojiChar": "♣️",
+    "emojiChar": "♣",
     "emoji": "\u2663",
     "description": "black club suit",
     "aliases": [
@@ -11588,7 +11588,7 @@
     "tags": []
   },
   {
-    "emojiChar": "♦️",
+    "emojiChar": "♦",
     "emoji": "\u2666",
     "description": "black diamond suit",
     "aliases": [
@@ -11618,7 +11618,7 @@
     ]
   },
   {
-    "emojiChar": "✔️",
+    "emojiChar": "✔",
     "emoji": "\u2714",
     "description": "heavy check mark",
     "aliases": [
@@ -11627,7 +11627,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☑️",
+    "emojiChar": "☑",
     "emoji": "\u2611",
     "description": "ballot box with check",
     "aliases": [
@@ -11663,7 +11663,7 @@
     "tags": []
   },
   {
-    "emojiChar": "〰️",
+    "emojiChar": "〰",
     "emoji": "\u3030",
     "description": "wavy dash",
     "aliases": [
@@ -11672,7 +11672,7 @@
     "tags": []
   },
   {
-    "emojiChar": "〽️",
+    "emojiChar": "〽",
     "emoji": "\u303D",
     "description": "part alternation mark",
     "aliases": [
@@ -11690,7 +11690,7 @@
     "tags": []
   },
   {
-    "emojiChar": "◼️",
+    "emojiChar": "◼",
     "emoji": "\u25FC",
     "description": "black medium square",
     "aliases": [
@@ -11699,7 +11699,7 @@
     "tags": []
   },
   {
-    "emojiChar": "◻️",
+    "emojiChar": "◻",
     "emoji": "\u25FB",
     "description": "white medium square",
     "aliases": [
@@ -11726,7 +11726,7 @@
     "tags": []
   },
   {
-    "emojiChar": "▪️",
+    "emojiChar": "▪",
     "emoji": "\u25AA",
     "description": "black small square",
     "aliases": [
@@ -11735,7 +11735,7 @@
     "tags": []
   },
   {
-    "emojiChar": "▫️",
+    "emojiChar": "▫",
     "emoji": "\u25AB",
     "description": "white small square",
     "aliases": [
@@ -12548,7 +12548,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☹️",
+    "emojiChar": "☹",
     "emoji": "\u2639",
     "description": "white frowning face",
     "aliases": [
@@ -12614,7 +12614,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛑️",
+    "emojiChar": "⛑",
     "emoji": "\u26D1",
     "description": "helmet with white crosse",
     "aliases": [
@@ -12624,7 +12624,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕵️",
+    "emojiChar": "🕵",
     "emoji": "\uD83D\uDD75",
     "description": "sleuth or spy",
     "supports_fitzpatrick": true,
@@ -12638,7 +12638,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗣️",
+    "emojiChar": "🗣",
     "emoji": "\uD83D\uDDE3",
     "description": "speaking head in silhouette",
     "aliases": [
@@ -12648,7 +12648,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕴️",
+    "emojiChar": "🕴",
     "emoji": "\uD83D\uDD74",
     "description": "man in business suit levitating",
     "supports_fitzpatrick": true,
@@ -12674,7 +12674,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖐️",
+    "emojiChar": "🖐",
     "emoji": "\uD83D\uDD90",
     "description": "raised hand with five fingers splayed",
     "supports_fitzpatrick": true,
@@ -12685,7 +12685,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✍️",
+    "emojiChar": "✍",
     "emoji": "\u270D",
     "description": "writing hand",
     "supports_fitzpatrick": true,
@@ -12696,7 +12696,7 @@
     "tags": []
   },
   {
-    "emojiChar": "👁️",
+    "emojiChar": "👁",
     "emoji": "\uD83D\uDC41",
     "description": "eye",
     "aliases": [
@@ -12705,7 +12705,7 @@
     "tags": []
   },
   {
-    "emojiChar": "❣️",
+    "emojiChar": "❣",
     "emoji": "\u2763",
     "description": "heavy heart exclamation mark ornament",
     "aliases": [
@@ -12715,7 +12715,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕳️",
+    "emojiChar": "🕳",
     "emoji": "\uD83D\uDD73",
     "description": "hole",
     "aliases": [
@@ -12724,7 +12724,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗯️",
+    "emojiChar": "🗯",
     "emoji": "\uD83D\uDDEF",
     "description": "right anger bubble",
     "aliases": [
@@ -12734,7 +12734,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕶️",
+    "emojiChar": "🕶",
     "emoji": "\uD83D\uDD76",
     "description": "dark sunglasses",
     "aliases": [
@@ -12743,7 +12743,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛍️",
+    "emojiChar": "🛍",
     "emoji": "\uD83D\uDECD",
     "description": "shopping bags",
     "aliases": [
@@ -12764,7 +12764,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☠️",
+    "emojiChar": "☠",
     "emoji": "\u2620",
     "description": "skull and crossbones",
     "aliases": [
@@ -12807,7 +12807,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🐿️",
+    "emojiChar": "🐿",
     "emoji": "\uD83D\uDC3F",
     "description": "chipmunk",
     "aliases": [
@@ -12826,7 +12826,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕊️",
+    "emojiChar": "🕊",
     "emoji": "\uD83D\uDD4A",
     "description": "dove of peace, carrying an olive branch",
     "aliases": [
@@ -12845,7 +12845,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕷️",
+    "emojiChar": "🕷",
     "emoji": "\uD83D\uDD77",
     "description": "black spider with eight legs",
     "aliases": [
@@ -12854,7 +12854,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕸️",
+    "emojiChar": "🕸",
     "emoji": "\uD83D\uDD78",
     "description": "spider web in orb form",
     "aliases": [
@@ -12873,7 +12873,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏵️",
+    "emojiChar": "🏵",
     "emoji": "\uD83C\uDFF5",
     "description": "rosette",
     "aliases": [
@@ -12882,7 +12882,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☘️",
+    "emojiChar": "☘",
     "emoji": "\u2618",
     "description": "shamrock",
     "aliases": [
@@ -12892,7 +12892,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌶️",
+    "emojiChar": "🌶",
     "emoji": "\uD83C\uDF36",
     "description": "hot pepper",
     "aliases": [
@@ -12961,7 +12961,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🍽️",
+    "emojiChar": "🍽",
     "emoji": "\uD83C\uDF7D",
     "description": "fork and knife with plate",
     "aliases": [
@@ -12982,7 +12982,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗺️",
+    "emojiChar": "🗺",
     "emoji": "\uD83D\uDDFA",
     "description": "world map",
     "aliases": [
@@ -12991,7 +12991,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏔️",
+    "emojiChar": "🏔",
     "emoji": "\uD83C\uDFD4",
     "description": "snow capped mountain",
     "aliases": [
@@ -13002,7 +13002,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛰️",
+    "emojiChar": "⛰",
     "emoji": "\u26F0",
     "description": "mountain",
     "aliases": [
@@ -13011,7 +13011,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏕️",
+    "emojiChar": "🏕",
     "emoji": "\uD83C\uDFD5",
     "description": "camping with tent and tree",
     "aliases": [
@@ -13021,7 +13021,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏖️",
+    "emojiChar": "🏖",
     "emoji": "\uD83C\uDFD6",
     "description": "beach with umbrella",
     "aliases": [
@@ -13031,7 +13031,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏜️",
+    "emojiChar": "🏜",
     "emoji": "\uD83C\uDFDC",
     "description": "desert with cactus",
     "aliases": [
@@ -13040,7 +13040,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏝️",
+    "emojiChar": "🏝",
     "emoji": "\uD83C\uDFDD",
     "description": "desert island with palm tree",
     "aliases": [
@@ -13049,7 +13049,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏞️",
+    "emojiChar": "🏞",
     "emoji": "\uD83C\uDFDE",
     "description": "national park",
     "aliases": [
@@ -13058,7 +13058,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏟️",
+    "emojiChar": "🏟",
     "emoji": "\uD83C\uDFDF",
     "description": "stadium",
     "aliases": [
@@ -13067,7 +13067,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏛️",
+    "emojiChar": "🏛",
     "emoji": "\uD83C\uDFDB",
     "description": "classical building",
     "aliases": [
@@ -13076,7 +13076,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏗️",
+    "emojiChar": "🏗",
     "emoji": "\uD83C\uDFD7",
     "description": "building in construction with crane",
     "aliases": [
@@ -13086,7 +13086,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏘️",
+    "emojiChar": "🏘",
     "emoji": "\uD83C\uDFD8",
     "description": "house buildings",
     "aliases": [
@@ -13097,7 +13097,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏙️",
+    "emojiChar": "🏙",
     "emoji": "\uD83C\uDFD9",
     "description": "cityscape",
     "aliases": [
@@ -13106,7 +13106,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏚️",
+    "emojiChar": "🏚",
     "emoji": "\uD83C\uDFDA",
     "description": "derelict house",
     "aliases": [
@@ -13162,7 +13162,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖼️",
+    "emojiChar": "🖼",
     "emoji": "\uD83D\uDDBC",
     "description": "frame with picture or painting",
     "aliases": [
@@ -13174,7 +13174,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛢️",
+    "emojiChar": "🛢",
     "emoji": "\uD83D\uDEE2",
     "description": "oil drum",
     "aliases": [
@@ -13183,7 +13183,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛣️",
+    "emojiChar": "🛣",
     "emoji": "\uD83D\uDEE3",
     "description": "motorway",
     "aliases": [
@@ -13196,7 +13196,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛤️",
+    "emojiChar": "🛤",
     "emoji": "\uD83D\uDEE4",
     "description": "railway track",
     "aliases": [
@@ -13205,7 +13205,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛳️",
+    "emojiChar": "🛳",
     "emoji": "\uD83D\uDEF3",
     "description": "passenger ship",
     "aliases": [
@@ -13214,7 +13214,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛴️",
+    "emojiChar": "⛴",
     "emoji": "\u26F4",
     "description": "ferry",
     "aliases": [
@@ -13223,7 +13223,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛥️",
+    "emojiChar": "🛥",
     "emoji": "\uD83D\uDEE5",
     "description": "motor boat",
     "aliases": [
@@ -13232,7 +13232,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛩️",
+    "emojiChar": "🛩",
     "emoji": "\uD83D\uDEE9",
     "description": "small airplane",
     "aliases": [
@@ -13264,8 +13264,8 @@
     "tags": []
   },
   {
-    "emojiChar": "🛰️",
-    "emoji": "\uD83D\uDEF0\uFE0F",
+    "emojiChar": "🛰",
+    "emoji": "\uD83D\uDEF0",
     "description": "satellite",
     "aliases": [
       "satellite",
@@ -13274,7 +13274,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛎️",
+    "emojiChar": "🛎",
     "emoji": "\uD83D\uDECE",
     "description": "bellhop bell",
     "aliases": [
@@ -13294,7 +13294,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛏️",
+    "emojiChar": "🛏",
     "emoji": "\uD83D\uDECF",
     "description": "bed or bedroom",
     "aliases": [
@@ -13304,7 +13304,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛋️",
+    "emojiChar": "🛋",
     "emoji": "\uD83D\uDECB",
     "description": "couch and lamp",
     "aliases": [
@@ -13317,7 +13317,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⏱️",
+    "emojiChar": "⏱",
     "emoji": "\u23F1",
     "description": "stopwatch",
     "aliases": [
@@ -13326,7 +13326,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⏲️",
+    "emojiChar": "⏲",
     "emoji": "\u23F2",
     "description": "timer clock",
     "aliases": [
@@ -13335,7 +13335,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕰️",
+    "emojiChar": "🕰",
     "emoji": "\uD83D\uDD70",
     "description": "mantelpiece clock",
     "aliases": [
@@ -13344,7 +13344,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌡️",
+    "emojiChar": "🌡",
     "emoji": "\uD83C\uDF21",
     "description": "thermometer",
     "aliases": [
@@ -13355,7 +13355,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛈️",
+    "emojiChar": "⛈",
     "emoji": "\u26C8",
     "description": "thunder cloud and rain",
     "aliases": [
@@ -13365,7 +13365,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌤️",
+    "emojiChar": "🌤",
     "emoji": "\uD83C\uDF24",
     "description": "white sun with small cloud",
     "aliases": [
@@ -13375,7 +13375,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌥️",
+    "emojiChar": "🌥",
     "emoji": "\uD83C\uDF25",
     "description": "white sun behind cloud",
     "aliases": [
@@ -13385,7 +13385,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌦️",
+    "emojiChar": "🌦",
     "emoji": "\uD83C\uDF26",
     "description": "white sun behind cloud with rain",
     "aliases": [
@@ -13395,7 +13395,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌧️",
+    "emojiChar": "🌧",
     "emoji": "\uD83C\uDF27",
     "description": "cloud with rain",
     "aliases": [
@@ -13405,7 +13405,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌨️",
+    "emojiChar": "🌨",
     "emoji": "\uD83C\uDF28",
     "description": "cloud with snow",
     "aliases": [
@@ -13415,7 +13415,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌩️",
+    "emojiChar": "🌩",
     "emoji": "\uD83C\uDF29",
     "description": "cloud with lightning",
     "aliases": [
@@ -13425,7 +13425,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌪️",
+    "emojiChar": "🌪",
     "emoji": "\uD83C\uDF2A",
     "description": "cloud with tornado",
     "aliases": [
@@ -13435,7 +13435,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌫️",
+    "emojiChar": "🌫",
     "emoji": "\uD83C\uDF2B",
     "description": "fog",
     "aliases": [
@@ -13444,7 +13444,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🌬️",
+    "emojiChar": "🌬",
     "emoji": "\uD83C\uDF2C",
     "description": "wind blowing face",
     "aliases": [
@@ -13456,7 +13456,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☂️",
+    "emojiChar": "☂",
     "emoji": "\u2602",
     "description": "open umbrella",
     "aliases": [
@@ -13465,7 +13465,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛱️",
+    "emojiChar": "⛱",
     "emoji": "\u26F1",
     "description": "umbrella planted on the ground",
     "aliases": [
@@ -13476,7 +13476,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☃️",
+    "emojiChar": "☃",
     "emoji": "\u2603",
     "description": "snowman with snow",
     "aliases": [
@@ -13486,7 +13486,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☄️",
+    "emojiChar": "☄",
     "emoji": "\u2604",
     "description": "comet",
     "aliases": [
@@ -13508,7 +13508,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🎖️",
+    "emojiChar": "🎖",
     "emoji": "\uD83C\uDF96",
     "description": "military medal with ribbon",
     "aliases": [
@@ -13519,7 +13519,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🎗️",
+    "emojiChar": "🎗",
     "emoji": "\uD83C\uDF97",
     "description": "reminder ribbon",
     "aliases": [
@@ -13529,7 +13529,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🎞️",
+    "emojiChar": "🎞",
     "emoji": "\uD83C\uDF9E",
     "description": "film frames",
     "aliases": [
@@ -13539,7 +13539,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🎟️",
+    "emojiChar": "🎟",
     "emoji": "\uD83C\uDF9F",
     "description": "admission ticket",
     "aliases": [
@@ -13549,7 +13549,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏷️",
+    "emojiChar": "🏷",
     "emoji": "\uD83C\uDFF7",
     "description": "label",
     "aliases": [
@@ -13558,7 +13558,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏌️",
+    "emojiChar": "🏌",
     "emoji": "\uD83C\uDFCC",
     "description": "golfer swinging a golf club",
     "supports_fitzpatrick": true,
@@ -13599,7 +13599,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛸️",
+    "emojiChar": "⛸",
     "emoji": "\u26F8",
     "description": "single ice skate",
     "aliases": [
@@ -13609,7 +13609,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛷️",
+    "emojiChar": "⛷",
     "emoji": "\u26F7",
     "description": "skier",
     "aliases": [
@@ -13618,7 +13618,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛹️",
+    "emojiChar": "⛹",
     "emoji": "\u26F9",
     "description": "person with ball",
     "supports_fitzpatrick": true,
@@ -13630,7 +13630,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏋️",
+    "emojiChar": "🏋",
     "emoji": "\uD83C\uDFCB",
     "description": "weight lifter",
     "supports_fitzpatrick": true,
@@ -13642,7 +13642,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏎️",
+    "emojiChar": "🏎",
     "emoji": "\uD83C\uDFCE",
     "description": "racing car",
     "aliases": [
@@ -13653,7 +13653,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏍️",
+    "emojiChar": "🏍",
     "emoji": "\uD83C\uDFCD",
     "description": "racing motorcycle",
     "aliases": [
@@ -13731,7 +13731,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕹️",
+    "emojiChar": "🕹",
     "emoji": "\uD83D\uDD79",
     "description": "joystick",
     "aliases": [
@@ -13740,7 +13740,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⏭️",
+    "emojiChar": "⏭",
     "emoji": "\u23ED",
     "description": "black right-pointing double triangle with vertical bar",
     "aliases": [
@@ -13750,7 +13750,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⏯️",
+    "emojiChar": "⏯",
     "emoji": "\u23EF",
     "description": "black right-pointing triangle with double vertical bar",
     "aliases": [
@@ -13760,7 +13760,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⏮️",
+    "emojiChar": "⏮",
     "emoji": "\u23EE",
     "description": "black left-pointing double triangle with vertical bar",
     "aliases": [
@@ -13770,7 +13770,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⏸️",
+    "emojiChar": "⏸",
     "emoji": "\u23F8",
     "description": "double vertical bar",
     "aliases": [
@@ -13780,7 +13780,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⏹️",
+    "emojiChar": "⏹",
     "emoji": "\u23F9",
     "description": "black square for stop",
     "aliases": [
@@ -13790,7 +13790,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⏺️",
+    "emojiChar": "⏺",
     "emoji": "\u23FA",
     "description": "black circle for record",
     "aliases": [
@@ -13800,7 +13800,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🎙️",
+    "emojiChar": "🎙",
     "emoji": "\uD83C\uDF99",
     "description": "studio microphone",
     "aliases": [
@@ -13809,7 +13809,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🎚️",
+    "emojiChar": "🎚",
     "emoji": "\uD83C\uDF9A",
     "description": "level slider",
     "aliases": [
@@ -13818,7 +13818,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🎛️",
+    "emojiChar": "🎛",
     "emoji": "\uD83C\uDF9B",
     "description": "control knobs",
     "aliases": [
@@ -13827,7 +13827,7 @@
     "tags": []
   },
   {
-    "emojiChar": "*️⃣",
+    "emojiChar": "*⃣",
     "emoji": "*\u20E3",
     "description": "keycap asterisk",
     "aliases": [
@@ -13838,7 +13838,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖥️",
+    "emojiChar": "🖥",
     "emoji": "\uD83D\uDDA5",
     "description": "desktop computer",
     "aliases": [
@@ -13849,7 +13849,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖨️",
+    "emojiChar": "🖨",
     "emoji": "\uD83D\uDDA8",
     "description": "printer",
     "aliases": [
@@ -13858,7 +13858,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⌨️",
+    "emojiChar": "⌨",
     "emoji": "\u2328",
     "description": "keyboard",
     "aliases": [
@@ -13867,7 +13867,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖱️",
+    "emojiChar": "🖱",
     "emoji": "\uD83D\uDDB1",
     "description": "three button mouse",
     "aliases": [
@@ -13877,7 +13877,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖲️",
+    "emojiChar": "🖲",
     "emoji": "\uD83D\uDDB2",
     "description": "trackball",
     "aliases": [
@@ -13886,7 +13886,7 @@
     "tags": []
   },
   {
-    "emojiChar": "📽️",
+    "emojiChar": "📽",
     "emoji": "\uD83D\uDCFD",
     "description": "film projector",
     "aliases": [
@@ -13904,7 +13904,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕯️",
+    "emojiChar": "🕯",
     "emoji": "\uD83D\uDD6F",
     "description": "candle burning",
     "aliases": [
@@ -13913,7 +13913,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗞️",
+    "emojiChar": "🗞",
     "emoji": "\uD83D\uDDDE",
     "description": "newspaper rolled up for delivery",
     "aliases": [
@@ -13924,7 +13924,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗳️",
+    "emojiChar": "🗳",
     "emoji": "\uD83D\uDDF3",
     "description": "ballot bow with ballot",
     "aliases": [
@@ -13934,7 +13934,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖋️",
+    "emojiChar": "🖋",
     "emoji": "\uD83D\uDD8B",
     "description": "lower left fountain pen",
     "aliases": [
@@ -13944,7 +13944,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖊️",
+    "emojiChar": "🖊",
     "emoji": "\uD83D\uDD8A",
     "description": "lower left ballpoint pen",
     "aliases": [
@@ -13954,7 +13954,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖌️",
+    "emojiChar": "🖌",
     "emoji": "\uD83D\uDD8C",
     "description": "lower left paintbrush",
     "aliases": [
@@ -13964,7 +13964,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖍️",
+    "emojiChar": "🖍",
     "emoji": "\uD83D\uDD8D",
     "description": "lower left crayon",
     "aliases": [
@@ -13974,7 +13974,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗂️",
+    "emojiChar": "🗂",
     "emoji": "\uD83D\uDDC2",
     "description": "card index dividers",
     "aliases": [
@@ -13983,7 +13983,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗒️",
+    "emojiChar": "🗒",
     "emoji": "\uD83D\uDDD2",
     "description": "spiral note pad",
     "aliases": [
@@ -13993,7 +13993,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗓️",
+    "emojiChar": "🗓",
     "emoji": "\uD83D\uDDD3",
     "description": "spiral calendar pad",
     "aliases": [
@@ -14003,7 +14003,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🖇️",
+    "emojiChar": "🖇",
     "emoji": "\uD83D\uDD87",
     "description": "multiple paperclips linked together",
     "aliases": [
@@ -14013,7 +14013,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗃️",
+    "emojiChar": "🗃",
     "emoji": "\uD83D\uDDC3",
     "description": "card file box",
     "aliases": [
@@ -14022,7 +14022,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗄️",
+    "emojiChar": "🗄",
     "emoji": "\uD83D\uDDC4",
     "description": "file cabinet",
     "aliases": [
@@ -14031,7 +14031,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗑️",
+    "emojiChar": "🗑",
     "emoji": "\uD83D\uDDD1",
     "description": "wastebasket",
     "aliases": [
@@ -14040,7 +14040,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗝️",
+    "emojiChar": "🗝",
     "emoji": "\uD83D\uDDDD",
     "description": "an ornate old key",
     "aliases": [
@@ -14049,7 +14049,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛏️",
+    "emojiChar": "⛏",
     "emoji": "\u26CF",
     "description": "pick",
     "aliases": [
@@ -14058,7 +14058,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚒️",
+    "emojiChar": "⚒",
     "emoji": "\u2692",
     "description": "hammer and pick",
     "aliases": [
@@ -14067,7 +14067,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛠️",
+    "emojiChar": "🛠",
     "emoji": "\uD83D\uDEE0",
     "description": "hammer and wrench",
     "aliases": [
@@ -14076,7 +14076,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚙️",
+    "emojiChar": "⚙",
     "emoji": "\u2699",
     "description": "gear",
     "aliases": [
@@ -14085,7 +14085,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗜️",
+    "emojiChar": "🗜",
     "emoji": "\uD83D\uDDDC",
     "description": "compression",
     "aliases": [
@@ -14095,7 +14095,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚗️",
+    "emojiChar": "⚗",
     "emoji": "\u2697",
     "description": "alembic",
     "aliases": [
@@ -14104,7 +14104,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚖️",
+    "emojiChar": "⚖",
     "emoji": "\u2696",
     "description": "scales of justice",
     "aliases": [
@@ -14115,7 +14115,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛓️",
+    "emojiChar": "⛓",
     "emoji": "\u26D3",
     "description": "chains",
     "aliases": [
@@ -14124,7 +14124,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗡️",
+    "emojiChar": "🗡",
     "emoji": "\uD83D\uDDE1",
     "description": "dagger knife",
     "aliases": [
@@ -14135,7 +14135,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚔️",
+    "emojiChar": "⚔",
     "emoji": "\u2694",
     "description": "crossed swords",
     "aliases": [
@@ -14144,7 +14144,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🛡️",
+    "emojiChar": "🛡",
     "emoji": "\uD83D\uDEE1",
     "description": "shield",
     "aliases": [
@@ -14164,7 +14164,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚰️",
+    "emojiChar": "⚰",
     "emoji": "\u26B0",
     "description": "coffin",
     "aliases": [
@@ -14175,7 +14175,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚱️",
+    "emojiChar": "⚱",
     "emoji": "\u26B1",
     "description": "funeral urn",
     "aliases": [
@@ -14184,7 +14184,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🏳️",
+    "emojiChar": "🏳",
     "emoji": "\uD83C\uDFF3",
     "description": "waving white flag",
     "aliases": [
@@ -14204,7 +14204,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚜️",
+    "emojiChar": "⚜",
     "emoji": "\u269C",
     "description": "fleur-de-lis",
     "aliases": [
@@ -14214,7 +14214,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚛️",
+    "emojiChar": "⚛",
     "emoji": "\u269B",
     "description": "atom symbol",
     "aliases": [
@@ -14224,7 +14224,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🕉️",
+    "emojiChar": "🕉",
     "emoji": "\uD83D\uDD49",
     "description": "om symbol",
     "aliases": [
@@ -14236,7 +14236,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✡️",
+    "emojiChar": "✡",
     "emoji": "\u2721",
     "description": "star of David",
     "aliases": [
@@ -14245,7 +14245,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☸️",
+    "emojiChar": "☸",
     "emoji": "\u2638",
     "description": "wheel of Dharma",
     "aliases": [
@@ -14254,7 +14254,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☯️",
+    "emojiChar": "☯",
     "emoji": "\u262F",
     "description": "yin yang",
     "aliases": [
@@ -14263,7 +14263,7 @@
     "tags": []
   },
   {
-    "emojiChar": "✝️",
+    "emojiChar": "✝",
     "emoji": "\u271D",
     "description": "latin cross",
     "aliases": [
@@ -14273,7 +14273,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☦️",
+    "emojiChar": "☦",
     "emoji": "\u2626",
     "description": "orthodox cross",
     "aliases": [
@@ -14282,7 +14282,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⛩️",
+    "emojiChar": "⛩",
     "emoji": "\u26E9",
     "description": "shinto shrine",
     "aliases": [
@@ -14292,7 +14292,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☪️",
+    "emojiChar": "☪",
     "emoji": "\u262A",
     "description": "star and crescent",
     "aliases": [
@@ -14302,7 +14302,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☮️",
+    "emojiChar": "☮",
     "emoji": "\u262E",
     "description": "peace symbol",
     "aliases": [
@@ -14312,7 +14312,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☢️",
+    "emojiChar": "☢",
     "emoji": "\u2622",
     "description": "radioactive symbol",
     "aliases": [
@@ -14323,7 +14323,7 @@
     "tags": []
   },
   {
-    "emojiChar": "☣️",
+    "emojiChar": "☣",
     "emoji": "\u2623",
     "description": "biohazard symbol",
     "aliases": [
@@ -14334,7 +14334,7 @@
     "tags": []
   },
   {
-    "emojiChar": "🗨️",
+    "emojiChar": "🗨",
     "emoji": "\uD83D\uDDE8",
     "description": "left speech bubble",
     "aliases": [
@@ -14343,7 +14343,7 @@
     "tags": []
   },
   {
-    "emojiChar": "👁️‍🗨️",
+    "emojiChar": "👁‍🗨",
     "emoji": "\uD83D\uDC41\u200D\uD83D\uDDE8",
     "description": "eye in speech bubble",
     "aliases": [
@@ -15537,7 +15537,7 @@
     "tags": []
   },
   {
-    "emojiChar": "⚕️",
+    "emojiChar": "⚕",
     "emoji": "\u2695",
     "description": "medical symbol",
     "aliases": [
